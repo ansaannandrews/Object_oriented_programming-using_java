@@ -89,7 +89,7 @@ public class Inheritance {
 		officer.printSalary();
 		officer.printSpecialization();
 		
-		Manager manager=new Manager(name,age,phoneNumber,address,salary,department);
+		Manager manager=new Manager(name1,age1,phoneNumber1,address1,salary1,department);
 		System.out.println();
 		System.out.println("DETAILS OF MANAGER =");
 		manager.printEmployee();
